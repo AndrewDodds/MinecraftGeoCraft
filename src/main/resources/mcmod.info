@@ -1,0 +1,16 @@
+[
+{
+  "modid": "andymod",
+  "name": "Andy's Geological Mod",
+  "description": "Just testing.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Me"],
+  "credits": "The Forge and FML guys, for making an example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

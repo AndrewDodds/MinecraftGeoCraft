@@ -1,0 +1,13 @@
+
+//Blocks
+tile.andyBlock1.name=Andys First Block
+tile.Basalt.name=Basalt
+tile.conglomerate.name=Conglomerate
+tile.dolerite.name=Dolerite  
+tile.gneiss.name=Gneiss  
+tile.granite.name=Granite  
+tile.limestone.name=Limestone  
+tile.Rhyolite.name=Rhyolite 
+tile.shale.name=Shale  
+tile.siltstone.name=Siltstone  
+tile.slate.name=Slate  
